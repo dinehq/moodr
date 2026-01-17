@@ -161,7 +161,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## Credits
 
-Built with ❤️ by [Dine Creative](https://www.dinehq.com) — A design studio based in Beijing with more than ten years of experience, creating brand identities and digital experiences that connect and inspire.
+Built with ❤️ by [Dine](https://dinehq.com) — A design studio based in Beijing with more than ten years of experience, creating brand identities and digital experiences that connect and inspire.
 
 ---
 
